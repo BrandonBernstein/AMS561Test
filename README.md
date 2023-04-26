@@ -1,2 +1,4 @@
 # AMS561Test
-Learning
+
+This is my example repo for class.
+Helloooo!
